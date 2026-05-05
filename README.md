@@ -1,4 +1,18 @@
+# 💫 About Me:
+Hi, I’m Suman Kumar — a developer and aspiring Machine Learning Engineer who loves building impactful, real-world systems.
 
+I specialize in crafting dynamic web applications using React, Node.js, and Next.js, along with designing scalable APIs and deploying production-ready systems on AWS. My work goes beyond development—I focus on performance, security, and clean architecture.
+
+I’ve built secure authentication systems, integrated Paytm Merchant APIs for real-time payment tracking, and actively manage live deployments in cloud environments.
+
+Currently, I’m expanding into Machine Learning—working on data-driven solutions and intelligent systems that combine software engineering with AI.
+
+Beyond tech, I’m also involved in consumer rights advocacy, driven by a goal to create meaningful impact through both code and community.
+
+Let’s build something powerful, scalable, and intelligent 🚀
+
+
+# Founder of Suman Code Labs (SCL)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/star_s_suman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suman-kumar-j8084?) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sj9789310@gmail.com) 
 
