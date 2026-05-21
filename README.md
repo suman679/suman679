@@ -1,15 +1,15 @@
 # 💫 About Me:
-Hi, I’m Suman Kumar — a developer and aspiring Machine Learning Engineer who loves building impactful, real-world systems.
+Hi, I’m Suman Kumar — a developer with a strong interest in Machine Learning and real-world problem solving.
 
-I specialize in crafting dynamic web applications using React, Node.js, and Next.js, along with designing scalable APIs and deploying production-ready systems on AWS. My work goes beyond development—I focus on performance, security, and clean architecture.
+I enjoy building modern web applications, scalable backend systems, and software that is not just functional but fast, secure, and reliable. I primarily work with React, Next.js, Node.js, and cloud technologies to create products that can perform well in production environments.
 
-I’ve built secure authentication systems, integrated Paytm Merchant APIs for real-time payment tracking, and actively manage live deployments in cloud environments.
+Over time, I’ve worked on projects involving secure authentication, API development, payment gateway integrations, and cloud deployments. I like focusing on clean code, good system design, and building solutions that can scale as requirements grow.
 
-Currently, I’m expanding into Machine Learning—working on data-driven solutions and intelligent systems that combine software engineering with AI.
+Alongside software development, I’m actively exploring Machine Learning and AI, learning how intelligent systems can be combined with software engineering to solve practical problems and create smarter applications.
 
-Beyond tech, I’m also involved in consumer rights advocacy, driven by a goal to create meaningful impact through both code and community.
+Outside of technology, I’m also interested in consumer rights and community impact, because I believe technology should not only build products — it should help people.
 
-Let’s build something powerful, scalable, and intelligent 🚀
+I’m always excited to learn, collaborate, and build meaningful, scalable, and intelligent solutions. 🚀
 
 
 # Founder of Suman Code Labs (SCL)
